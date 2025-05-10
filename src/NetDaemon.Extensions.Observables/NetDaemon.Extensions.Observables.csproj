@@ -35,7 +35,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="NetDaemon.HassModel" Version="25.14.1" />
+    <PackageReference Include="NetDaemon.HassModel" Version="25.18.0" />
     <PackageReference Include="Reactive.Boolean" Version="1.0.6" />
   </ItemGroup>
 
